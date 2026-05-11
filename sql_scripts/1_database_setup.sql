@@ -7,7 +7,6 @@ DROP TABLE IF EXISTS production_logs;
 DROP TABLE IF EXISTS purchase_orders;
 DROP TABLE IF EXISTS suppliers;
 
-
 -- STEP 2: Create tables from scratch
 
 -- 2.1. Suppliers Table
