@@ -1,0 +1,4 @@
+"company_name","part_category","total_orders","delayed_orders","total_hours_lost","total_financial_loss_eur","risk_category"
+"Global Steel Parts","Mechanics",2,1,20.00,70000.0000,"Critical Risk - Immediate Action"
+"TechVantage GmbH","Electronics",2,1,4.50,22500.0000,"High Risk - Needs Review"
+"EuroPlast","Plastics",1,0,0,0,"Low Risk - Reliable Supplier"
